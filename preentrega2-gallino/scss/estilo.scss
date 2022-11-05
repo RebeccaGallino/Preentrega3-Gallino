@@ -1,0 +1,121 @@
+body {
+    background-color: #EDEDED;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  
+  #navbar {
+    z-index: 1;
+  }
+  
+  #carouselExampleIndicators {
+    margin-top: 10px;
+  }
+  
+  #bienvenidos {
+    h1 {
+      width: 100%;
+      height: 70px;
+      color: #505354;
+      text-align: center;
+      font-size: 60px;
+      margin-top: 60px;
+    }
+  
+    h2 {
+      width: 100%;
+      height: 130px;
+      color: #822352;
+      text-align: center;
+      font-size: 90px;
+    }
+  }
+  
+  #ubicacionlogo {
+    background-color: #822352;
+    position: relative;
+    margin-top: 20px;
+    z-index: 20;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  
+    img {
+      position: relative;
+    }
+  }
+  
+  .text-shadow {
+    text-shadow: 0 3px 3px rgba(0, 0, 0, 0.6);
+  }
+  
+  #separator-equipo {
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+    z-index: 2;
+  
+    .content {
+      background-color: #505354;
+      width: 110%;
+      height: 40px;
+      margin-left: -5%;
+      border-top-left-radius: 50%;
+      border-top-right-radius: 50%;
+    }
+  }
+  
+  #equipo {
+    background-color: #505354;
+    position: relative;
+    width: 100%;
+  }
+  
+  footer {
+    background-color: #822352;
+    text-align: center;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    padding: 10px;
+    color: #EDEDED;
+  }
+  
+  #categoria h2 {
+    color: #822352;
+    text-align: center;
+    font-size: 60px;
+    margin-top: 60px;
+    margin-bottom: 10%;
+  }
+  
+  #productos {
+    background-color: #822352;
+    margin-top: 30px;
+    margin-bottom: 15%;
+  }
+  
+  #marcas img {
+    width: 228px;
+    height: 160px;
+    margin: 10px;
+  }
+  
+  #como-comprar {
+    background-color: #822352;
+    margin-top: 30px;
+    margin-bottom: 15%;
+  }
+  
+  .navbar {
+    background-color: #505354;
+  }
+  
+  main {
+    text-align: center;
+    font-size: 25%;
+    padding: 20px;
+    color: #505354;
+  }
+
+ .formulario {
+    background-color: #822352;
+    
+  }
